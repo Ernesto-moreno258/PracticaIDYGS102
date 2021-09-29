@@ -1,0 +1,26 @@
+{
+  "name": "practicaidygs102",
+  "version": "1.0.0",
+  "description": "Primera practica",
+  "scripts": {
+    "start": "func start",
+    "jest": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "jest": "^27.2.3",
+    "jshint": "^2.13.1"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pancracio-cyber/Primera_Practica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pancracio-cyber/Primera_Practica/issues"
+  },
+  "homepage": "https://github.com/Pancracio-cyber/Primera_Practica#readme",
+  "keywords": []
+}
